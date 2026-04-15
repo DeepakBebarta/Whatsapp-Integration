@@ -7,7 +7,7 @@ A production-ready WhatsApp automation system powered by **FastAPI**, **Celery**
 ## 📁 Project Structure
 
 ```
-axension-ai/
+WhatsApp Agent/
 │
 ├── src/
 │   ├── whatsapp/
