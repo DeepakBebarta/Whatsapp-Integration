@@ -1,4 +1,4 @@
-# 🤖 Axension AI — WhatsApp Agent
+# WhatsApp Agent
 
 A production-ready WhatsApp automation system powered by **FastAPI**, **Celery**, **Redis**, and the **Meta WhatsApp Business API**. It handles inbound messages with auto-replies, sends scheduled supplier follow-ups, and gives factory owners a daily morning brief.
 
@@ -7,7 +7,7 @@ A production-ready WhatsApp automation system powered by **FastAPI**, **Celery**
 ## 📁 Project Structure
 
 ```
-axension-ai/
+WhatsApp Agent/
 │
 ├── src/
 │   ├── whatsapp/
